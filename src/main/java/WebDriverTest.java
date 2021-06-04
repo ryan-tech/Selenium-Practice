@@ -10,7 +10,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.FileWriter;
 
